@@ -1,12 +1,12 @@
 // Replace with your own firebase config!
 export const FIREBASE_CONFIG = {
- apiKey: "AIzaSyB55OOWTWROQumWL84P79txhwD2HspvSZs",
-  authDomain: "gpt-wager.firebaseapp.com",
-  projectId: "gpt-wager",
-  storageBucket: "gpt-wager.appspot.com",
-  messagingSenderId: "380002747460",
-  appId: "1:380002747460:web:7f3191826cc2c84eaf6811",
-  measurementId: "G-YG2GY8D0FB"
+ apiKey: "AIzaSyC0rDGOc-dRCpEVXl_d6j8Z4xpKw20dJSA",
+  authDomain: "sportscalc-39278.firebaseapp.com",
+  projectId: "sportscalc-39278",
+  storageBucket: "sportscalc-39278.appspot.com",
+  messagingSenderId: "1051673927482",
+  appId: "1:1051673927482:web:0c99737feedaf8f86cfa03",
+  measurementId: "G-XPSH35ZNYN"
 }
 
 // Replace with your own IDs! follow the guides here:
